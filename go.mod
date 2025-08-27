@@ -1,6 +1,6 @@
 module github.com/harness/gitness
 
-go 1.22.0
+go 1.22.5
 
 require (
 	cloud.google.com/go/storage v1.43.0
@@ -27,7 +27,7 @@ require (
 	github.com/drone/spec v0.0.0-20230920145636-3827abdce961
 	github.com/fatih/color v1.17.0
 	github.com/gabriel-vasile/mimetype v1.4.4
-	github.com/getkin/kin-openapi v0.123.0
+	github.com/getkin/kin-openapi v0.131.0
 	github.com/gliderlabs/ssh v0.3.7
 	github.com/go-chi/chi/v5 v5.0.12
 	github.com/go-chi/cors v1.2.1
@@ -116,10 +116,10 @@ require (
 	github.com/ghodss/yaml v1.0.0 // indirect
 	github.com/gitleaks/go-gitdiff v0.9.0 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
-	github.com/go-openapi/jsonpointer v0.20.2 // indirect
+	github.com/go-openapi/jsonpointer v0.21.0 // indirect
 	github.com/go-openapi/jsonreference v0.20.0 // indirect
 	github.com/go-openapi/spec v0.20.9 // indirect
-	github.com/go-openapi/swag v0.22.8 // indirect
+	github.com/go-openapi/swag v0.23.0 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/google/s2a-go v0.1.8 // indirect
@@ -128,7 +128,6 @@ require (
 	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/h2non/filetype v1.1.3 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
-	github.com/invopop/yaml v0.2.0 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20231201235250-de7065d80cb9 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
@@ -142,6 +141,8 @@ require (
 	github.com/muesli/termenv v0.15.2 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/natessilva/dag v0.0.0-20180124060714-7194b8dcc5c4 // indirect
+	github.com/oasdiff/yaml v0.0.0-20250309154309-f31be36b4037 // indirect
+	github.com/oasdiff/yaml3 v0.0.0-20250309153720-d2182401db90 // indirect
 	github.com/onsi/gomega v1.27.10 // indirect
 	github.com/pelletier/go-toml/v2 v2.2.2 // indirect
 	github.com/perimeterx/marshmallow v1.1.5 // indirect
